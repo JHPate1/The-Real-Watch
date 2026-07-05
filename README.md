@@ -44,6 +44,8 @@ The software is already in development! I am making the internal code first as I
 <img width="916" height="786" alt="image" src="https://github.com/user-attachments/assets/7048eb13-b23e-4b75-a30d-606fc387b04d" />
 <img width="1297" height="879" alt="image" src="https://github.com/user-attachments/assets/75684bfb-7e34-42b1-a3b9-28870886eb78" />
 <img width="1225" height="826" alt="image" src="https://github.com/user-attachments/assets/b00745ae-f872-42a8-96e7-04298e3a98e2" />
+<img width="829" height="557" alt="Screenshot_2026-07-04-191801" src="https://github.com/user-attachments/assets/0d17f021-e728-4aa2-bb2e-668308f8354b" />
+(Render by my friend in blender, does not have github so I will update this Readme once he does.)
 <img width="1062" height="718" alt="image" src="https://github.com/user-attachments/assets/4f50a540-35c9-4d51-9980-a12f4efe8b48" />
 (Yes I use tinkercad, so what? My laptop doesn't even run cloud services like onshape efficiently, and this was before I was notified of the deadline extension.)
 
