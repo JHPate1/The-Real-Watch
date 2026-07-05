@@ -1,0 +1,14 @@
+Ref,Component,Description,Qty,Unit Price ($),Total ($),Category
+RPI5,iRasptek Starter Kit for Raspberry Pi 5,"8GB RAM, preloaded 64GB Pi OS, red and white case",1,224.99,224.99,Purchased Component
+USB C,50FT USB C Power Cable for CCTV Camera,Long flat USB C extension charging cable,1,16.99,16.99,Purchased Component
+HOTPLATE,WEP 946D IV 100x50mm Small LED Soldering Hot Plate,"SMD/BGA rework reflow, 210W preheater with digital temp control",1,35.99,35.99,Purchased Component
+VEST,JKSafety Hi Vis Reflective Safety Vest,"High visibility mesh vest with pockets, black, size L",1,9.99,9.99,Purchased Component
+CAM,innomaker Raspberry Pi Camera Module 5MP 1080P,OV5647 sensor with M12 FOV90 IR filter lens,1,16.99,16.99,Purchased Component
+HAPTIC,HilBeliFU Vibration Motor Module,"DC5V 9000RPM, PWM control, 3 pack",1,7.99,7.99,Purchased Component
+GPS,DWEII GPS+BDS Dual Mode Module,ATGM336H flight control satellite positioning, 2 pack,1,17.99,17.99,Purchased Component
+TOF,TOF400C VL53L1X 4M Laser Ranging Sensor,"Time of flight distance sensor, IIC output, 4 pack",1,21.89,21.89,Purchased Component
+OTG,USB 3.0 to USB C 3.1 Adapter,"10Gbps bi directional OTG converter, 2 pack",1,6.99,6.99,Purchased Component
+PCB,Custom Pi 5 HAT PCB,"2 layer, HASL finish, 1.6mm FR4",5,4.1,20.5,PCBWay
+PCB_PARTS,Pi HAT Connectors,,All,0.0,0.0,On Hand
+SHIPPING,Shipping & Handling,Total shipping costs for all components,1,0.0,0.0,Fees
+TAX,Estimated Tax,Total estimated tax for the order,1,21.0,21.0,Fees
