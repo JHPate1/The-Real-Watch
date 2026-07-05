@@ -19,7 +19,8 @@ This is indeed a very ambitious venture but I AM confident I have what it takes.
 | PCB + 3D Printing (PCBWay, Cheaper than JLCPCB) | $157.90 |
 | PCBWay Balance | -$25.00 |
 | Coupons | -$8.00 |
-| **PCBWay Total** | **$124.90** |
+| 3D printing | -$24.90 |
+| **PCBWay Total** | **$100.00** |
 | | |
 | 8 Ohm Small Speakers | $8.45 |
 | Mini Vibration Motors | $5.99 |
@@ -28,7 +29,7 @@ This is indeed a very ambitious venture but I AM confident I have what it takes.
 | Amazon Tax | $2.52 |
 | **Amazon Total** | **$49.94** |
 | | |
-| **Project TOTAL** | **$174.84** |
+| **Project TOTAL** | **$149.94** |
 
 > **Tariffs and shipping are likely to be decided later, or the prices may go down.**
 
